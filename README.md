@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Nov 07 2022</code> [TIL: How to patch Nixpkgs](https://notes.abhinavsarkar.net/2022/patching-nixpkgs) 
  - <code>Oct 08 2022</code> [What I’m Doing Now](https://abhinavsarkar.net/now/) 
  - <code>Oct 07 2022</code> [Software I use on my MacBook](https://notes.abhinavsarkar.net/2022/software-i-use) 
  - <code>Oct 05 2022</code> [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) 
@@ -22,5 +23,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jul 02 2022</code> [2022 5k Run Training](https://notes.abhinavsarkar.net/2022/5k-training) 
  - <code>Jun 02 2022</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2022-06-02/) 
  - <code>Sep 21 2021</code> [Implementing Co, a Small Interpreted Language With Coroutines #2: The
-Interpreter](https://abhinavsarkar.net/posts/implementing-co-2/) 
- - <code>Aug 17 2021</code> [Mood Analysis](https://notes.abhinavsarkar.net/2021/mood-analysis) <!-- BLOG-POST-LIST:END -->
+Interpreter](https://abhinavsarkar.net/posts/implementing-co-2/) <!-- BLOG-POST-LIST:END -->
