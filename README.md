@@ -13,15 +13,14 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Nov 07 2022</code> [TIL: How to patch Nixpkgs](https://notes.abhinavsarkar.net/2022/patching-nixpkgs) 
  - <code>Oct 08 2022</code> [What I’m Doing Now](https://abhinavsarkar.net/now/) 
+ - <code>Oct 07 2022</code> [Software I use on my MacBook](https://notes.abhinavsarkar.net/2022/software-i-use) 
+ - <code>Oct 05 2022</code> [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) 
+ - <code>Aug 31 2022</code> [Setting up Fail2Ban with Nginx and Cloudflare on NixOS](https://notes.abhinavsarkar.net/2022/fail2ban-nginx-cloudflare-nixos) 
+ - <code>Aug 29 2022</code> [Hosting a Ghost blog on NixOS](https://notes.abhinavsarkar.net/2022/ghost-on-nixos) 
+ - <code>Aug 27 2022</code> [Creating NixOS custom image for Digital Ocean VPS](https://notes.abhinavsarkar.net/2022/DO-nixos-image) 
+ - <code>Jul 02 2022</code> [2022 5k Run Training](https://notes.abhinavsarkar.net/2022/5k-training) 
  - <code>Jun 02 2022</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2022-06-02/) 
  - <code>Sep 21 2021</code> [Implementing Co, a Small Interpreted Language With Coroutines #2: The
-Interpreter](https://abhinavsarkar.net/posts/implementing-co-2/) 
- - <code>Jun 18 2021</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2021-06-18/) 
- - <code>Apr 24 2021</code> [Implementing Co, a Small Interpreted Language With Coroutines #1: The
-Parser](https://abhinavsarkar.net/posts/implementing-co-1/) 
- - <code>Apr 17 2021</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2021-04-17/) 
- - <code>Jan 16 2021</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2021-01-16/) 
- - <code>Jan 04 2021</code> [Solving Advent of Code “Handy Haversacks” in Type-level Haskell](https://abhinavsarkar.net/posts/type-level-haskell-aoc7/) 
- - <code>Sep 30 2020</code> [JSON Parsing from Scratch in Haskell: Error Reporting—Part 2](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-3/) 
- - <code>Sep 29 2020</code> [JSON Parsing from Scratch in Haskell: Error Reporting—Part 1](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-2/) <!-- BLOG-POST-LIST:END -->
+Interpreter](https://abhinavsarkar.net/posts/implementing-co-2/) <!-- BLOG-POST-LIST:END -->
