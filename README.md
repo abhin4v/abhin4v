@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![website](https://img.shields.io/badge/abhinavsarkar.net-blueviolet?style=for-the-badge)](https://abhinavsarkar.net)
-[![Twitter](https://img.shields.io/badge/@abhin4v-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhin4v)
+<a rel="nofollow me" href="https://fantastic.earth/@abnv"><img style="max-width: 100%;" src="https://img.shields.io/mastodon/follow/109392551762673142?color=%23595aff&amp;domain=https%3A%2F%2Ffantastic.earth&amp;label=%40abnv&amp;logo=Mastodon&amp;logoColor=%23fff&amp;style=for-the-badge" alt="Fediverse"></a>
 
 I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, India. When not making software, I read books, play drums, take photos and ride my bike.
 
