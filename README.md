@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Dec 01 2022</code> [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar) 
  - <code>Nov 20 2022</code> [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos) 
  - <code>Nov 16 2022</code> [Monitoring VPS Network Usage with vnStat and NixOS](https://notes.abhinavsarkar.net/2022/vnstat-dashboard) 
  - <code>Nov 07 2022</code> [TIL: How to patch Nixpkgs](https://notes.abhinavsarkar.net/2022/patching-nixpkgs) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Oct 05 2022</code> [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) 
  - <code>Aug 31 2022</code> [Setting up Fail2Ban with Nginx and Cloudflare on NixOS](https://notes.abhinavsarkar.net/2022/fail2ban-nginx-cloudflare-nixos) 
  - <code>Aug 29 2022</code> [Hosting a Ghost blog on NixOS](https://notes.abhinavsarkar.net/2022/ghost-on-nixos) 
- - <code>Aug 27 2022</code> [Creating NixOS custom image for Digital Ocean VPS](https://notes.abhinavsarkar.net/2022/DO-nixos-image) 
- - <code>Jul 02 2022</code> [2022 5k Run Training](https://notes.abhinavsarkar.net/2022/5k-training) <!-- BLOG-POST-LIST:END -->
+ - <code>Aug 27 2022</code> [Creating NixOS custom image for Digital Ocean VPS](https://notes.abhinavsarkar.net/2022/DO-nixos-image) <!-- BLOG-POST-LIST:END -->
