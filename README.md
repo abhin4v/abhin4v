@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Dec 15 2022</code> [Populating Small Mastodon Instances using FakeRelay](https://notes.abhinavsarkar.net/2022/fake-relay) 
  - <code>Dec 09 2022</code> [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7) 
  - <code>Dec 02 2022</code> [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps) 
  - <code>Dec 01 2022</code> [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Nov 07 2022</code> [TIL: How to patch Nixpkgs](https://notes.abhinavsarkar.net/2022/patching-nixpkgs) 
  - <code>Oct 08 2022</code> [What I’m Doing Now](https://abhinavsarkar.net/now/) 
  - <code>Oct 07 2022</code> [Software I use on my MacBook](https://notes.abhinavsarkar.net/2022/software-i-use) 
- - <code>Oct 05 2022</code> [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) 
- - <code>Aug 31 2022</code> [Setting up Fail2Ban with Nginx and Cloudflare on NixOS](https://notes.abhinavsarkar.net/2022/fail2ban-nginx-cloudflare-nixos) <!-- BLOG-POST-LIST:END -->
+ - <code>Oct 05 2022</code> [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) <!-- BLOG-POST-LIST:END -->
