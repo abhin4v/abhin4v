@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Jan 03 2023</code> [Interesting Blog Post Links for December 2022](https://notes.abhinavsarkar.net/2023/links-22-12) 
  - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) 
  - <code>Dec 17 2022</code> [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/) 
  - <code>Dec 15 2022</code> [Populating Small Mastodon Instances using FakeRelay](https://notes.abhinavsarkar.net/2022/fake-relay) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Dec 01 2022</code> [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar) 
  - <code>Nov 20 2022</code> [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos) 
  - <code>Nov 16 2022</code> [Monitoring VPS Network Usage with vnStat and NixOS](https://notes.abhinavsarkar.net/2022/vnstat-dashboard) 
- - <code>Nov 07 2022</code> [TIL: How to patch Nixpkgs](https://notes.abhinavsarkar.net/2022/patching-nixpkgs) 
- - <code>Oct 08 2022</code> [What I’m Doing Now](https://abhinavsarkar.net/now/) <!-- BLOG-POST-LIST:END -->
+ - <code>Nov 07 2022</code> [TIL: How to patch Nixpkgs](https://notes.abhinavsarkar.net/2022/patching-nixpkgs) <!-- BLOG-POST-LIST:END -->
