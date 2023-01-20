@@ -13,13 +13,13 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Jan 03 2023</code> [Interesting Blog Post Links for December 2022](https://notes.abhinavsarkar.net/2023/links-22-12) 
+ - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) 
  - <code>Dec 17 2022</code> [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/) 
- - <code>Oct 08 2022</code> [What I’m Doing Now](https://abhinavsarkar.net/now/) 
- - <code>Jun 02 2022</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2022-06-02/) 
- - <code>Sep 21 2021</code> [Implementing Co, a Small Interpreted Language With Coroutines #2: The Interpreter](https://abhinavsarkar.net/posts/implementing-co-2/) 
- - <code>Jun 18 2021</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2021-06-18/) 
- - <code>Apr 24 2021</code> [Implementing Co, a Small Interpreted Language With Coroutines #1: The Parser](https://abhinavsarkar.net/posts/implementing-co-1/) 
- - <code>Apr 17 2021</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2021-04-17/) 
- - <code>Jan 16 2021</code> [What I’m Doing Now](https://abhinavsarkar.net/now/2021-01-16/) 
- - <code>Jan 04 2021</code> [Solving Advent of Code “Handy Haversacks” in Type-level Haskell](https://abhinavsarkar.net/posts/type-level-haskell-aoc7/) 
- - <code>Sep 30 2020</code> [JSON Parsing from Scratch in Haskell: Error Reporting—Part 2](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-3/) <!-- BLOG-POST-LIST:END -->
+ - <code>Dec 15 2022</code> [Populating Small Mastodon Instances using FakeRelay](https://notes.abhinavsarkar.net/2022/fake-relay) 
+ - <code>Dec 09 2022</code> [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7) 
+ - <code>Dec 02 2022</code> [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps) 
+ - <code>Dec 01 2022</code> [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar) 
+ - <code>Nov 20 2022</code> [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos) 
+ - <code>Nov 16 2022</code> [Monitoring VPS Network Usage with vnStat and NixOS](https://notes.abhinavsarkar.net/2022/vnstat-dashboard) 
+ - <code>Nov 07 2022</code> [TIL: How to patch Nixpkgs](https://notes.abhinavsarkar.net/2022/patching-nixpkgs) <!-- BLOG-POST-LIST:END -->
