@@ -13,7 +13,8 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
- - <code>Jan 03 2023</code> [Interesting Blog Post Links for December 2022](https://notes.abhinavsarkar.net/2023/links-22-12) 
+ - <code>Feb 01 2023</code> [Interesting Links for January 2023](https://notes.abhinavsarkar.net/2023/links-23-01) 
+ - <code>Jan 03 2023</code> [Interesting Links for December 2022](https://notes.abhinavsarkar.net/2023/links-22-12) 
  - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) 
  - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) 
  - <code>Dec 17 2022</code> [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Dec 15 2022</code> [Populating Small Mastodon Instances using FakeRelay](https://notes.abhinavsarkar.net/2022/fake-relay) 
  - <code>Dec 09 2022</code> [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7) 
  - <code>Dec 09 2022</code> [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7) 
- - <code>Dec 02 2022</code> [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps) 
  - <code>Dec 02 2022</code> [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps) <!-- BLOG-POST-LIST:END -->
