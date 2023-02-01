@@ -13,13 +13,13 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
- - <code>Feb 01 2023</code> [Interesting Links for January 2023](https://notes.abhinavsarkar.net/2023/links-23-01) 
- - <code>Jan 03 2023</code> [Interesting Links for December 2022](https://notes.abhinavsarkar.net/2023/links-22-12) 
- - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) 
  - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) 
  - <code>Dec 17 2022</code> [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/) 
  - <code>Dec 15 2022</code> [Populating Small Mastodon Instances using FakeRelay](https://notes.abhinavsarkar.net/2022/fake-relay) 
- - <code>Dec 15 2022</code> [Populating Small Mastodon Instances using FakeRelay](https://notes.abhinavsarkar.net/2022/fake-relay) 
  - <code>Dec 09 2022</code> [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7) 
- - <code>Dec 09 2022</code> [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7) 
- - <code>Dec 02 2022</code> [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps) <!-- BLOG-POST-LIST:END -->
+ - <code>Dec 02 2022</code> [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps) 
+ - <code>Dec 01 2022</code> [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar) 
+ - <code>Nov 20 2022</code> [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos) 
+ - <code>Nov 16 2022</code> [Monitoring VPS Network Usage with vnStat and NixOS](https://notes.abhinavsarkar.net/2022/vnstat-dashboard) 
+ - <code>Nov 07 2022</code> [TIL: How to patch Nixpkgs](https://notes.abhinavsarkar.net/2022/patching-nixpkgs) 
+ - <code>Oct 05 2022</code> [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo) <!-- BLOG-POST-LIST:END -->
