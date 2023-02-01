@@ -14,7 +14,7 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://abhinavsarkar.net/feed.atom,https://notes.abhinavsarkar.net/feed.atom,https://abhinavsarkar.net/now/feed.atom"
+          feed_list: "https://abhinavsarkar.net/feed.atom"
           max_post_count: 10
           template: "$newline - <code>$date</code> [$title]($url) $categories"
           categories_template: "<code>$category</code>"
