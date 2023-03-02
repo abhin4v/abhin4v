@@ -13,9 +13,9 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
- - <code>Feb 11 2023</code> [Implementing Co, a Small Language With Coroutines #3: Adding Coroutines](https://abhinavsarkar.net/posts/implementing-co-3/) 
+ - <code>Feb 11 2023</code> [Implementing Co, a Small Language With Coroutines #3: Adding Coroutines](https://abhinavsarkar.net/posts/implementing-co-3/?mtm_campaign=feed) 
  - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) 
- - <code>Dec 17 2022</code> [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/) 
+ - <code>Dec 17 2022</code> [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/?mtm_campaign=feed) 
  - <code>Dec 15 2022</code> [Populating Small Mastodon Instances using FakeRelay](https://notes.abhinavsarkar.net/2022/fake-relay) 
  - <code>Dec 09 2022</code> [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7) 
  - <code>Dec 02 2022</code> [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps) 
