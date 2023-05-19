@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>May 19 2023</code> [Adding Mastodon Comments to a Website](https://notes.abhinavsarkar.net/2023/mastodon-comments) 
  - <code>May 13 2023</code> [Automating Mastodon Backups with NixOS and Syncthing](https://notes.abhinavsarkar.net/2023/mastodon-backup) 
  - <code>May 02 2023</code> [Interesting Links for April 2023](https://notes.abhinavsarkar.net/2023/links-23-04) 
  - <code>Apr 01 2023</code> [Interesting Links for March 2023](https://notes.abhinavsarkar.net/2023/links-23-03) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Feb 11 2023</code> [Implementing Co, a Small Language With Coroutines #3: Adding Coroutines](https://abhinavsarkar.net/posts/implementing-co-3/?mtm_campaign=feed) 
  - <code>Feb 01 2023</code> [Interesting Links for January 2023](https://notes.abhinavsarkar.net/2023/links-23-01) 
  - <code>Jan 03 2023</code> [Interesting Links for December 2022](https://notes.abhinavsarkar.net/2023/links-22-12) 
- - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) 
- - <code>Dec 17 2022</code> [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Dec 20 2022</code> [Patching Mastodon on NixOS for Removing User Avatars and Headers](https://notes.abhinavsarkar.net/2022/patching-mastodon) <!-- BLOG-POST-LIST:END -->
