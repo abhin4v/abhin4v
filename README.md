@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Dec 31 2023</code> [Generating Standalone Haddock Docs for a Multi-package Haskell Project](https://notes.abhinavsarkar.net/2023/standalone-haddock) 
  - <code>Jun 03 2023</code> [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/?mtm_campaign=feed) 
  - <code>May 19 2023</code> [Adding Mastodon Comments to a Website](https://notes.abhinavsarkar.net/2023/mastodon-comments) 
  - <code>May 13 2023</code> [Automating Mastodon Backups with NixOS and Syncthing](https://notes.abhinavsarkar.net/2023/mastodon-backup) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Mar 05 2023</code> [Pulling missing context of replied toots in Mastodon](https://notes.abhinavsarkar.net/2023/mastodon-context) 
  - <code>Mar 01 2023</code> [Interesting Links for February 2023](https://notes.abhinavsarkar.net/2023/links-23-02) 
  - <code>Feb 11 2023</code> [Implementing Co, a Small Language With Coroutines #3: Adding Coroutines](https://abhinavsarkar.net/posts/implementing-co-3/?mtm_campaign=feed) 
- - <code>Feb 01 2023</code> [Interesting Links for January 2023](https://notes.abhinavsarkar.net/2023/links-23-01) 
- - <code>Jan 03 2023</code> [Interesting Links for December 2022](https://notes.abhinavsarkar.net/2023/links-22-12) <!-- BLOG-POST-LIST:END -->
+ - <code>Feb 01 2023</code> [Interesting Links for January 2023](https://notes.abhinavsarkar.net/2023/links-23-01) <!-- BLOG-POST-LIST:END -->
