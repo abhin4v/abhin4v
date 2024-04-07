@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Apr 07 2024</code> [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/?mtm_campaign=feed) 
  - <code>Dec 31 2023</code> [Generating Standalone Haddock Docs for a Multi-package Haskell Project](https://notes.abhinavsarkar.net/2023/standalone-haddock) 
  - <code>Jun 03 2023</code> [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/?mtm_campaign=feed) 
  - <code>May 19 2023</code> [Adding Mastodon Comments to a Website](https://notes.abhinavsarkar.net/2023/mastodon-comments) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Apr 01 2023</code> [Interesting Links for March 2023](https://notes.abhinavsarkar.net/2023/links-23-03) 
  - <code>Mar 05 2023</code> [Pulling missing context of replied toots in Mastodon](https://notes.abhinavsarkar.net/2023/mastodon-context) 
  - <code>Mar 01 2023</code> [Interesting Links for February 2023](https://notes.abhinavsarkar.net/2023/links-23-02) 
- - <code>Feb 11 2023</code> [Implementing Co, a Small Language With Coroutines #3: Adding Coroutines](https://abhinavsarkar.net/posts/implementing-co-3/?mtm_campaign=feed) 
- - <code>Feb 01 2023</code> [Interesting Links for January 2023](https://notes.abhinavsarkar.net/2023/links-23-01) <!-- BLOG-POST-LIST:END -->
+ - <code>Feb 11 2023</code> [Implementing Co, a Small Language With Coroutines #3: Adding Coroutines](https://abhinavsarkar.net/posts/implementing-co-3/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
