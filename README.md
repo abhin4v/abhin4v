@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Jul 31 2024</code> [Interesting Links for July 2024](https://notes.abhinavsarkar.net/2024/links-07) 
  - <code>Jun 14 2024</code> [Interesting Links for June 2024](https://notes.abhinavsarkar.net/2024/links-06) 
  - <code>May 22 2024</code> [Interesting Links for May 2024](https://notes.abhinavsarkar.net/2024/links-05) 
  - <code>Apr 16 2024</code> [Interesting Links for April 2024](https://notes.abhinavsarkar.net/2024/links-04) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jun 03 2023</code> [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/?mtm_campaign=feed) 
  - <code>May 19 2023</code> [Adding Mastodon Comments to a Website](https://notes.abhinavsarkar.net/2023/mastodon-comments) 
  - <code>May 13 2023</code> [Automating Mastodon Backups with NixOS and Syncthing](https://notes.abhinavsarkar.net/2023/mastodon-backup) 
- - <code>May 02 2023</code> [Interesting Links for April 2023](https://notes.abhinavsarkar.net/2023/links-23-04) 
- - <code>Apr 01 2023</code> [Interesting Links for March 2023](https://notes.abhinavsarkar.net/2023/links-23-03) <!-- BLOG-POST-LIST:END -->
+ - <code>May 02 2023</code> [Interesting Links for April 2023](https://notes.abhinavsarkar.net/2023/links-23-04) <!-- BLOG-POST-LIST:END -->
