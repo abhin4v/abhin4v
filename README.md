@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Oct 31 2024</code> [Going REPLing with Haskeline](https://abhinavsarkar.net/posts/repling-with-haskeline/?mtm_campaign=feed) 
  - <code>Aug 29 2024</code> [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/?mtm_campaign=feed) 
  - <code>Jul 31 2024</code> [Interesting Links for July 2024](https://notes.abhinavsarkar.net/2024/links-07) 
  - <code>Jun 14 2024</code> [Interesting Links for June 2024](https://notes.abhinavsarkar.net/2024/links-06) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Apr 07 2024</code> [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/?mtm_campaign=feed) 
  - <code>Dec 31 2023</code> [Generating Standalone Haddock Docs for a Multi-package Haskell Project](https://notes.abhinavsarkar.net/2023/standalone-haddock) 
  - <code>Jun 03 2023</code> [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/?mtm_campaign=feed) 
- - <code>May 19 2023</code> [Adding Mastodon Comments to a Website](https://notes.abhinavsarkar.net/2023/mastodon-comments) 
- - <code>May 13 2023</code> [Automating Mastodon Backups with NixOS and Syncthing](https://notes.abhinavsarkar.net/2023/mastodon-backup) <!-- BLOG-POST-LIST:END -->
+ - <code>May 19 2023</code> [Adding Mastodon Comments to a Website](https://notes.abhinavsarkar.net/2023/mastodon-comments) <!-- BLOG-POST-LIST:END -->
