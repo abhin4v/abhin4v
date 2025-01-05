@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Jan 05 2025</code> [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/?mtm_campaign=feed) 
  - <code>Dec 31 2024</code> [Interesting Links for December 2024](https://notes.abhinavsarkar.net/2024/links-12) 
  - <code>Nov 20 2024</code> [Interesting Links for November 2024](https://notes.abhinavsarkar.net/2024/links-11) 
  - <code>Oct 31 2024</code> [Going REPLing with Haskeline](https://abhinavsarkar.net/posts/repling-with-haskeline/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jun 14 2024</code> [Interesting Links for June 2024](https://notes.abhinavsarkar.net/2024/links-06) 
  - <code>May 22 2024</code> [Interesting Links for May 2024](https://notes.abhinavsarkar.net/2024/links-05) 
  - <code>Apr 16 2024</code> [Interesting Links for April 2024](https://notes.abhinavsarkar.net/2024/links-04) 
- - <code>Apr 07 2024</code> [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/?mtm_campaign=feed) 
- - <code>Dec 31 2023</code> [Generating Standalone Haddock Docs for a Multi-package Haskell Project](https://notes.abhinavsarkar.net/2023/standalone-haddock) <!-- BLOG-POST-LIST:END -->
+ - <code>Apr 07 2024</code> [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
