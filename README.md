@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Apr 20 2025</code> [Running a Goaccess Server on NixOS](https://notes.abhinavsarkar.net/2025/goaccess-server-on-nixos) 
  - <code>Jan 19 2025</code> [Interpreting Brainfuck in Haskell](https://abhinavsarkar.net/posts/brainfuck-interpreter/?mtm_campaign=feed) 
  - <code>Jan 05 2025</code> [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/?mtm_campaign=feed) 
  - <code>Dec 31 2024</code> [Interesting Links for December 2024](https://notes.abhinavsarkar.net/2024/links-12) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Aug 29 2024</code> [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/?mtm_campaign=feed) 
  - <code>Jul 31 2024</code> [Interesting Links for July 2024](https://notes.abhinavsarkar.net/2024/links-07) 
  - <code>Jun 14 2024</code> [Interesting Links for June 2024](https://notes.abhinavsarkar.net/2024/links-06) 
- - <code>May 22 2024</code> [Interesting Links for May 2024](https://notes.abhinavsarkar.net/2024/links-05) 
- - <code>Apr 16 2024</code> [Interesting Links for April 2024](https://notes.abhinavsarkar.net/2024/links-04) <!-- BLOG-POST-LIST:END -->
+ - <code>May 22 2024</code> [Interesting Links for May 2024](https://notes.abhinavsarkar.net/2024/links-05) <!-- BLOG-POST-LIST:END -->
