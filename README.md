@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Aug 02 2025</code> [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/?mtm_campaign=feed) 
  - <code>May 13 2025</code> [Reading Time Estimates for Pandoc Based Blog Generators](https://notes.abhinavsarkar.net/2025/pandoc-reading-time) 
  - <code>Apr 20 2025</code> [Running a Goaccess Server on NixOS](https://notes.abhinavsarkar.net/2025/goaccess-server-on-nixos) 
  - <code>Jan 19 2025</code> [Interpreting Brainfuck in Haskell](https://abhinavsarkar.net/posts/brainfuck-interpreter/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Nov 20 2024</code> [Interesting Links for November 2024](https://notes.abhinavsarkar.net/2024/links-11) 
  - <code>Oct 31 2024</code> [Going REPLing with Haskeline](https://abhinavsarkar.net/posts/repling-with-haskeline/?mtm_campaign=feed) 
  - <code>Aug 29 2024</code> [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/?mtm_campaign=feed) 
- - <code>Jul 31 2024</code> [Interesting Links for July 2024](https://notes.abhinavsarkar.net/2024/links-07) 
- - <code>Jun 14 2024</code> [Interesting Links for June 2024](https://notes.abhinavsarkar.net/2024/links-06) <!-- BLOG-POST-LIST:END -->
+ - <code>Jul 31 2024</code> [Interesting Links for July 2024](https://notes.abhinavsarkar.net/2024/links-07) <!-- BLOG-POST-LIST:END -->
