@@ -13,7 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
- - <code>Aug 02 2025</code> [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/?mtm_campaign=feed) 
+ - <code>Aug 02 2025</code> [A Fast Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/?mtm_campaign=feed) 
  - <code>May 13 2025</code> [Reading Time Estimates for Pandoc Based Blog Generators](https://notes.abhinavsarkar.net/2025/pandoc-reading-time) 
  - <code>Apr 20 2025</code> [Running a Goaccess Server on NixOS](https://notes.abhinavsarkar.net/2025/goaccess-server-on-nixos) 
  - <code>Jan 19 2025</code> [Interpreting Brainfuck in Haskell](https://abhinavsarkar.net/posts/brainfuck-interpreter/?mtm_campaign=feed) 
