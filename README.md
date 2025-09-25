@@ -8,8 +8,8 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Nix](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![VSCode](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zedindustries&logoColor=white)
+![iTerm](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
