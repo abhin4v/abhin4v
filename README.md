@@ -13,13 +13,13 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Sep 09 2025</code> [The Many Broken Feeds](https://abhinavsarkar.net/notes/2025-broken-feeds/?mtm_campaign=feed) 
+ - <code>Aug 31 2025</code> [How I Got into Programming](https://abhinavsarkar.net/notes/2025-into-programming/?mtm_campaign=feed) 
  - <code>Aug 24 2025</code> [A Fast Bytecode VM for Arithmetic: The Compiler](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/?mtm_campaign=feed) 
+ - <code>Aug 16 2025</code> [How I Write on Internet](https://abhinavsarkar.net/notes/2025-writing-process/?mtm_campaign=feed) 
  - <code>Aug 02 2025</code> [A Fast Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/?mtm_campaign=feed) 
+ - <code>Jul 05 2025</code> [Totems](https://abhinavsarkar.net/notes/2025-totems/?mtm_campaign=feed) 
+ - <code>May 24 2025</code> [Unfinished Business](https://abhinavsarkar.net/notes/2025-unfinished-business/?mtm_campaign=feed) 
  - <code>May 13 2025</code> [Reading Time Estimates for Pandoc Based Blog Generators](https://abhinavsarkar.net/notes/2025-pandoc-reading-time/?mtm_campaign=feed) 
  - <code>Apr 20 2025</code> [Running a Goaccess Server on NixOS](https://abhinavsarkar.net/notes/2025-goaccess-server-on-nixos/?mtm_campaign=feed) 
- - <code>Jan 19 2025</code> [Interpreting Brainfuck in Haskell](https://abhinavsarkar.net/posts/brainfuck-interpreter/?mtm_campaign=feed) 
- - <code>Jan 05 2025</code> [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/?mtm_campaign=feed) 
- - <code>Dec 31 2024</code> [Interesting Links for December 2024](https://abhinavsarkar.net/notes/2024-links-12/?mtm_campaign=feed) 
- - <code>Nov 20 2024</code> [Interesting Links for November 2024](https://abhinavsarkar.net/notes/2024-links-11/?mtm_campaign=feed) 
- - <code>Oct 31 2024</code> [Going REPLing with Haskeline](https://abhinavsarkar.net/posts/repling-with-haskeline/?mtm_campaign=feed) 
- - <code>Aug 29 2024</code> [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jan 19 2025</code> [Interpreting Brainfuck in Haskell](https://abhinavsarkar.net/posts/brainfuck-interpreter/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
