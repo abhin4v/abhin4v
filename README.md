@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Oct 19 2025</code> [Notes for the Week #42](https://abhinavsarkar.net/notes/2025-weeknotes-10-19/?mtm_campaign=feed) 
  - <code>Oct 18 2025</code> [Advice](https://abhinavsarkar.net/notes/2025-self-advice/?mtm_campaign=feed) 
  - <code>Oct 12 2025</code> [Notes for the Week #41](https://abhinavsarkar.net/notes/2025-weeknotes-10-12/?mtm_campaign=feed) 
  - <code>Oct 04 2025</code> [Notes for the Week #40](https://abhinavsarkar.net/notes/2025-weeknotes-10-04/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Aug 31 2025</code> [How I Got into Programming](https://abhinavsarkar.net/notes/2025-into-programming/?mtm_campaign=feed) 
  - <code>Aug 24 2025</code> [A Fast Bytecode VM for Arithmetic: The Compiler](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/?mtm_campaign=feed) 
  - <code>Aug 16 2025</code> [How I Write on Internet](https://abhinavsarkar.net/notes/2025-writing-process/?mtm_campaign=feed) 
- - <code>Aug 02 2025</code> [A Fast Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/?mtm_campaign=feed) 
- - <code>Jul 05 2025</code> [Totems](https://abhinavsarkar.net/notes/2025-totems/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Aug 02 2025</code> [A Fast Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
