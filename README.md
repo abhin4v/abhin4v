@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Nov 05 2025</code> [A Short Survey of Compiler Targets](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/?mtm_campaign=feed) 
  - <code>Nov 02 2025</code> [Notes for the Week #44](https://abhinavsarkar.net/notes/2025-weeknotes-11-02/?mtm_campaign=feed) 
  - <code>Oct 30 2025</code> [Ten Pointless Facts About Me](https://abhinavsarkar.net/notes/2025-ten-pointless-facts/?mtm_campaign=feed) 
  - <code>Oct 26 2025</code> [Notes for the Week #43](https://abhinavsarkar.net/notes/2025-weeknotes-10-26/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Oct 18 2025</code> [Advice](https://abhinavsarkar.net/notes/2025-self-advice/?mtm_campaign=feed) 
  - <code>Oct 12 2025</code> [Notes for the Week #41](https://abhinavsarkar.net/notes/2025-weeknotes-10-12/?mtm_campaign=feed) 
  - <code>Oct 04 2025</code> [Notes for the Week #40](https://abhinavsarkar.net/notes/2025-weeknotes-10-04/?mtm_campaign=feed) 
- - <code>Sep 30 2025</code> [Sorting by Similarity in Miniflux](https://abhinavsarkar.net/notes/2025-miniflux-similar-sorting/?mtm_campaign=feed) 
- - <code>Sep 09 2025</code> [The Many Broken Feeds](https://abhinavsarkar.net/notes/2025-broken-feeds/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Sep 30 2025</code> [Sorting by Similarity in Miniflux](https://abhinavsarkar.net/notes/2025-miniflux-similar-sorting/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
