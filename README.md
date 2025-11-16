@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Nov 15 2025</code> [Change of Mind](https://abhinavsarkar.net/notes/2025-change-of-mind/?mtm_campaign=feed) 
  - <code>Nov 09 2025</code> [Notes for the Week #45](https://abhinavsarkar.net/notes/2025-weeknotes-11-09/?mtm_campaign=feed) 
  - <code>Nov 05 2025</code> [A Short Survey of Compiler Targets](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/?mtm_campaign=feed) 
  - <code>Nov 02 2025</code> [Notes for the Week #44](https://abhinavsarkar.net/notes/2025-weeknotes-11-02/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Oct 21 2025</code> [A Fast Bytecode VM for Arithmetic: The Virtual Machine](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/?mtm_campaign=feed) 
  - <code>Oct 19 2025</code> [Notes for the Week #42](https://abhinavsarkar.net/notes/2025-weeknotes-10-19/?mtm_campaign=feed) 
  - <code>Oct 18 2025</code> [Advice](https://abhinavsarkar.net/notes/2025-self-advice/?mtm_campaign=feed) 
- - <code>Oct 12 2025</code> [Notes for the Week #41](https://abhinavsarkar.net/notes/2025-weeknotes-10-12/?mtm_campaign=feed) 
- - <code>Oct 04 2025</code> [Notes for the Week #40](https://abhinavsarkar.net/notes/2025-weeknotes-10-04/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Oct 12 2025</code> [Notes for the Week #41](https://abhinavsarkar.net/notes/2025-weeknotes-10-12/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
