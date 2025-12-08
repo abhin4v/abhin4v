@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Dec 07 2025</code> [Notes for the Week #49](https://abhinavsarkar.net/notes/2025-weeknotes-12-07/?mtm_campaign=feed) 
  - <code>Dec 05 2025</code> [Solving Advent of Code 2025 in Janet: Day 1–4](https://abhinavsarkar.net/notes/2025-aoc-1/?mtm_campaign=feed) 
  - <code>Nov 30 2025</code> [Feed Popularity](https://abhinavsarkar.net/notes/2025-feed-popularity/?mtm_campaign=feed) 
  - <code>Nov 30 2025</code> [Notes for the Week #48](https://abhinavsarkar.net/notes/2025-weeknotes-11-30/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Nov 15 2025</code> [Change of Mind](https://abhinavsarkar.net/notes/2025-change-of-mind/?mtm_campaign=feed) 
  - <code>Nov 09 2025</code> [Notes for the Week #45](https://abhinavsarkar.net/notes/2025-weeknotes-11-09/?mtm_campaign=feed) 
  - <code>Nov 05 2025</code> [A Short Survey of Compiler Targets](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/?mtm_campaign=feed) 
- - <code>Nov 02 2025</code> [Notes for the Week #44](https://abhinavsarkar.net/notes/2025-weeknotes-11-02/?mtm_campaign=feed) 
- - <code>Oct 30 2025</code> [Ten Pointless Facts About Me](https://abhinavsarkar.net/notes/2025-ten-pointless-facts/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Nov 02 2025</code> [Notes for the Week #44](https://abhinavsarkar.net/notes/2025-weeknotes-11-02/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
