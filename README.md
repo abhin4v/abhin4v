@@ -13,13 +13,13 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Dec 28 2025</code> [Notes for the Week #52 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-12-28/?mtm_campaign=feed) 
  - <code>Dec 26 2025</code> [Working on My Website in 2025](https://abhinavsarkar.net/notes/2025-website-work/?mtm_campaign=feed) 
- - <code>Dec 21 2025</code> [Notes for the Week #50–51 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-12-20/?mtm_campaign=feed) 
+ - <code>Dec 21 2025</code> [Notes for the Weeks #50–51 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-12-21/?mtm_campaign=feed) 
  - <code>Dec 13 2025</code> [Solving Advent of Code 2025 in Janet: Days 5–8](https://abhinavsarkar.net/notes/2025-aoc-2/?mtm_campaign=feed) 
  - <code>Dec 08 2025</code> [Apps I Use &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-default-apps/?mtm_campaign=feed) 
  - <code>Dec 07 2025</code> [Notes for the Week #49 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-12-07/?mtm_campaign=feed) 
  - <code>Dec 05 2025</code> [Solving Advent of Code 2025 in Janet: Days 1–4](https://abhinavsarkar.net/notes/2025-aoc-1/?mtm_campaign=feed) 
  - <code>Nov 30 2025</code> [Feed Popularity](https://abhinavsarkar.net/notes/2025-feed-popularity/?mtm_campaign=feed) 
  - <code>Nov 30 2025</code> [Notes for the Week #48 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-11-30/?mtm_campaign=feed) 
- - <code>Nov 23 2025</code> [Notes for the Week #47 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-11-23/?mtm_campaign=feed) 
- - <code>Nov 16 2025</code> [Notes for the Week #46 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-11-16/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Nov 23 2025</code> [Notes for the Week #47 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-11-23/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
