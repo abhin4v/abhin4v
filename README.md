@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Jan 16 2026</code> [Implementing Co, a Small Language With Coroutines #5: Adding Sleep](https://abhinavsarkar.net/posts/implementing-co-5/?mtm_campaign=feed) 
  - <code>Jan 11 2026</code> [Notes for the Week #2 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-11/?mtm_campaign=feed) 
  - <code>Jan 10 2026</code> [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/?mtm_campaign=feed) 
  - <code>Jan 04 2026</code> [Notes for the Week #1 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-04/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Dec 26 2025</code> [Working on My Website in 2025](https://abhinavsarkar.net/notes/2025-website-work/?mtm_campaign=feed) 
  - <code>Dec 21 2025</code> [Notes for the Weeks #50–51 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-12-21/?mtm_campaign=feed) 
  - <code>Dec 13 2025</code> [Solving Advent of Code 2025 in Janet: Days 5–8](https://abhinavsarkar.net/notes/2025-aoc-2/?mtm_campaign=feed) 
- - <code>Dec 08 2025</code> [Apps I Use &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-default-apps/?mtm_campaign=feed) 
- - <code>Dec 07 2025</code> [Notes for the Week #49 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-12-07/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Dec 08 2025</code> [Apps I Use &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-default-apps/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
