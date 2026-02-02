@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Feb 01 2026</code> [Notes for the Week #5 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-02-01/?mtm_campaign=feed) 
  - <code>Jan 25 2026</code> [Notes for the Week #4 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-25/?mtm_campaign=feed) 
  - <code>Jan 18 2026</code> [Notes for the Week #3 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-18/?mtm_campaign=feed) 
  - <code>Jan 16 2026</code> [Implementing Co, a Small Language With Coroutines #5: Adding Sleep](https://abhinavsarkar.net/posts/implementing-co-5/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jan 04 2026</code> [Notes for the Week #1 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-04/?mtm_campaign=feed) 
  - <code>Dec 31 2025</code> [Polls I Ran on Mastodon in 2025](https://abhinavsarkar.net/notes/2025-mastodon-polls/?mtm_campaign=feed) 
  - <code>Dec 28 2025</code> [Notes for the Week #52 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-12-28/?mtm_campaign=feed) 
- - <code>Dec 26 2025</code> [Working on My Website in 2025](https://abhinavsarkar.net/notes/2025-website-work/?mtm_campaign=feed) 
- - <code>Dec 21 2025</code> [Notes for the Weeks #50–51 &lpar;2025&rpar;](https://abhinavsarkar.net/notes/2025-weeknotes-12-21/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Dec 26 2025</code> [Working on My Website in 2025](https://abhinavsarkar.net/notes/2025-website-work/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
