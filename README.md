@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Mar 01 2026</code> [Notes for the Week #9 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-03-01/?mtm_campaign=feed) 
  - <code>Feb 22 2026</code> [Notes for the Week #8 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-02-22/?mtm_campaign=feed) 
  - <code>Feb 16 2026</code> [Notes for the Week #7 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-02-16/?mtm_campaign=feed) 
  - <code>Feb 08 2026</code> [Notes for the Week #6 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-02-08/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jan 18 2026</code> [Notes for the Week #3 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-18/?mtm_campaign=feed) 
  - <code>Jan 16 2026</code> [Implementing Co, a Small Language With Coroutines #5: Adding Sleep](https://abhinavsarkar.net/posts/implementing-co-5/?mtm_campaign=feed) 
  - <code>Jan 11 2026</code> [Notes for the Week #2 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-11/?mtm_campaign=feed) 
- - <code>Jan 10 2026</code> [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/?mtm_campaign=feed) 
- - <code>Jan 04 2026</code> [Notes for the Week #1 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-04/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jan 10 2026</code> [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
