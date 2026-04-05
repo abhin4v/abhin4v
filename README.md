@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Apr 04 2026</code> [The Loss of the Night Sky](https://abhinavsarkar.net/notes/2026-night-sky/?mtm_campaign=feed) 
  - <code>Mar 30 2026</code> [Notes for the Week #13 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-03-30/?mtm_campaign=feed) 
  - <code>Mar 22 2026</code> [Notes for the Weeks #11–12 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-03-22/?mtm_campaign=feed) 
  - <code>Mar 09 2026</code> [Notes for the Week #10 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-03-09/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Feb 16 2026</code> [Notes for the Week #7 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-02-16/?mtm_campaign=feed) 
  - <code>Feb 08 2026</code> [Notes for the Week #6 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-02-08/?mtm_campaign=feed) 
  - <code>Feb 01 2026</code> [Notes for the Week #5 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-02-01/?mtm_campaign=feed) 
- - <code>Jan 25 2026</code> [Notes for the Week #4 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-25/?mtm_campaign=feed) 
- - <code>Jan 18 2026</code> [Notes for the Week #3 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-18/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jan 25 2026</code> [Notes for the Week #4 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-01-25/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
