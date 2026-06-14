@@ -13,6 +13,8 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Jun 13 2026</code> [feed-repeat v1.1: Hosting on GitHub Pages, New Posts Passthrough, SSRF
+Protection, and More](https://abhinavsarkar.net/notes/2026-feed-repeat-v1_1/?mtm_campaign=feed) 
  - <code>Jun 08 2026</code> [Notes for the Week #23 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-06-08/?mtm_campaign=feed) 
  - <code>Jun 01 2026</code> [IndieWebClub Bangalore: Special Edition Meetup, Behind the Scenes](https://abhinavsarkar.net/notes/2026-iwcb-se-bts/?mtm_campaign=feed) 
  - <code>May 31 2026</code> [Notes for the Week #22 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-31/?mtm_campaign=feed) 
@@ -21,5 +23,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>May 17 2026</code> [Notes for the Week #20 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-17/?mtm_campaign=feed) 
  - <code>May 10 2026</code> [Notes for the Week #19 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-10/?mtm_campaign=feed) 
  - <code>May 04 2026</code> [Notes for the Week #18 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-04/?mtm_campaign=feed) 
- - <code>May 02 2026</code> [Traffic Premonitions](https://abhinavsarkar.net/notes/2026-traffic-premonitions/?mtm_campaign=feed) 
- - <code>Apr 26 2026</code> [Playlist: Earworms](https://abhinavsarkar.net/notes/2026-playlist-earworms/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>May 02 2026</code> [Traffic Premonitions](https://abhinavsarkar.net/notes/2026-traffic-premonitions/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
