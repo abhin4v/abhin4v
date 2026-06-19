@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Jun 18 2026</code> [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/?mtm_campaign=feed) 
  - <code>Jun 14 2026</code> [Notes for the Week #24 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-06-14/?mtm_campaign=feed) 
  - <code>Jun 13 2026</code> [feed-repeat v1.1: Hosting on GitHub Pages, New Posts Passthrough, SSRF
 Protection, and More](https://abhinavsarkar.net/notes/2026-feed-repeat-v1_1/?mtm_campaign=feed) 
@@ -22,5 +23,4 @@ Protection, and More](https://abhinavsarkar.net/notes/2026-feed-repeat-v1_1/?mtm
  - <code>May 25 2026</code> [Notes for the Week #21 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-25/?mtm_campaign=feed) 
  - <code>May 23 2026</code> [Announcing feed-repeat v1.0](https://abhinavsarkar.net/notes/2026-feed-repeat/?mtm_campaign=feed) 
  - <code>May 17 2026</code> [Notes for the Week #20 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-17/?mtm_campaign=feed) 
- - <code>May 10 2026</code> [Notes for the Week #19 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-10/?mtm_campaign=feed) 
- - <code>May 04 2026</code> [Notes for the Week #18 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-04/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>May 10 2026</code> [Notes for the Week #19 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-05-10/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
