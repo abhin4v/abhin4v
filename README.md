@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Jul 22 2026</code> [100 Questions for Webmasters](https://abhinavsarkar.net/notes/2026-100-webmasters/?mtm_campaign=feed) 
  - <code>Jul 20 2026</code> [Notes for the Week #29 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-20/?mtm_campaign=feed) 
  - <code>Jul 12 2026</code> [Notes for the Week #28 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-12/?mtm_campaign=feed) 
  - <code>Jul 06 2026</code> [Notes for the Week #27 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-06/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jun 26 2026</code> [The Making of This Website](https://abhinavsarkar.net/notes/2026-making-this-website/?mtm_campaign=feed) 
  - <code>Jun 22 2026</code> [Notes for the Week #25 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-06-22/?mtm_campaign=feed) 
  - <code>Jun 20 2026</code> [How I Started My Indieweb Journey](https://abhinavsarkar.net/notes/2026-indieweb-start/?mtm_campaign=feed) 
- - <code>Jun 18 2026</code> [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/?mtm_campaign=feed) 
- - <code>Jun 14 2026</code> [Notes for the Week #24 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-06-14/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jun 18 2026</code> [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
