@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Aug 12 2026</code> [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/?mtm_campaign=feed) 
  - <code>Aug 10 2026</code> [Fast Haskell Scripts on GitHub Actions](https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/?mtm_campaign=feed) 
  - <code>Jul 27 2026</code> [Notes for the Week #30 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-27/?mtm_campaign=feed) 
  - <code>Jul 22 2026</code> [100 Questions for Webmasters](https://abhinavsarkar.net/notes/2026-100-webmasters/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jul 06 2026</code> [Notes for the Week #27 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-06/?mtm_campaign=feed) 
  - <code>Jul 04 2026</code> [IndieWebClub Bangalore: Special Edition Meetup, A Retrospective](https://abhinavsarkar.net/notes/2026-iwcb-se-retro/?mtm_campaign=feed) 
  - <code>Jun 29 2026</code> [Notes for the Week #26 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-06-29/?mtm_campaign=feed) 
- - <code>Jun 26 2026</code> [The Making of This Website](https://abhinavsarkar.net/notes/2026-making-this-website/?mtm_campaign=feed) 
- - <code>Jun 22 2026</code> [Notes for the Week #25 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-06-22/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jun 26 2026</code> [The Making of This Website](https://abhinavsarkar.net/notes/2026-making-this-website/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
