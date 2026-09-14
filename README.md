@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Sep 14 2026</code> [Things You Might Not Know About This Website](https://abhinavsarkar.net/notes/2026-things-you-might-not-know/?mtm_campaign=feed) 
  - <code>Aug 31 2026</code> [Introducing Ahm](https://projects.abhinavsarkar.net/ahm/posts/2026-08-31-introducing-ahm/) 
  - <code>Aug 12 2026</code> [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/?mtm_campaign=feed) 
  - <code>Aug 10 2026</code> [Fast Haskell Scripts on GitHub Actions](https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jul 20 2026</code> [Notes for the Week #29 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-20/?mtm_campaign=feed) 
  - <code>Jul 12 2026</code> [Notes for the Week #28 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-12/?mtm_campaign=feed) 
  - <code>Jul 06 2026</code> [Notes for the Week #27 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-06/?mtm_campaign=feed) 
- - <code>Jul 04 2026</code> [IndieWebClub Bangalore: Special Edition Meetup, A Retrospective](https://abhinavsarkar.net/notes/2026-iwcb-se-retro/?mtm_campaign=feed) 
- - <code>Jun 29 2026</code> [Notes for the Week #26 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-06-29/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jul 04 2026</code> [IndieWebClub Bangalore: Special Edition Meetup, A Retrospective](https://abhinavsarkar.net/notes/2026-iwcb-se-retro/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
