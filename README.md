@@ -20,6 +20,6 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jul 27 2026</code> [Notes for the Week #30 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-27/?mtm_campaign=feed) 
  - <code>Jul 22 2026</code> [100 Questions for Webmasters](https://abhinavsarkar.net/notes/2026-100-webmasters/?mtm_campaign=feed) 
  - <code>Jul 20 2026</code> [Notes for the Week #29 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-20/?mtm_campaign=feed) 
+ - <code>Jul 19 2026</code> [Getting Started with BlogShake](https://abhin4v.github.io/shake-blog/posts/2026-07-19-getting-started/) 
  - <code>Jul 12 2026</code> [Notes for the Week #28 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-12/?mtm_campaign=feed) 
- - <code>Jul 06 2026</code> [Notes for the Week #27 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-06/?mtm_campaign=feed) 
- - <code>Jul 04 2026</code> [IndieWebClub Bangalore: Special Edition Meetup, A Retrospective](https://abhinavsarkar.net/notes/2026-iwcb-se-retro/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jul 06 2026</code> [Notes for the Week #27 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-06/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
