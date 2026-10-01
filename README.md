@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Sep 30 2026</code> [Customizing Miniflux: Sorting by Signal](https://abhinavsarkar.net/notes/2026-miniflux-signal-sorting/?mtm_campaign=feed) 
  - <code>Sep 19 2026</code> [Non-negotiables in My Digital Personal Space](https://abhinavsarkar.net/notes/2026-personal-digital-space/?mtm_campaign=feed) 
  - <code>Sep 14 2026</code> [Things You Might Not Know About This Website](https://abhinavsarkar.net/notes/2026-things-you-might-not-know/?mtm_campaign=feed) 
  - <code>Aug 31 2026</code> [Introducing Ahm](https://projects.abhinavsarkar.net/ahm/posts/2026-08-31-introducing-ahm/) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Jul 27 2026</code> [Notes for the Week #30 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-27/?mtm_campaign=feed) 
  - <code>Jul 22 2026</code> [100 Questions for Webmasters](https://abhinavsarkar.net/notes/2026-100-webmasters/?mtm_campaign=feed) 
  - <code>Jul 20 2026</code> [Notes for the Week #29 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-20/?mtm_campaign=feed) 
- - <code>Jul 19 2026</code> [Getting Started with BlogShake](https://abhin4v.github.io/shake-blog/posts/2026-07-19-getting-started/) 
- - <code>Jul 12 2026</code> [Notes for the Week #28 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-12/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jul 19 2026</code> [Getting Started with BlogShake](https://abhin4v.github.io/shake-blog/posts/2026-07-19-getting-started/) <!-- BLOG-POST-LIST:END -->
