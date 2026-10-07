@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Oct 06 2026</code> [A Day in My Life](https://abhinavsarkar.net/notes/2026-day-in-life/?mtm_campaign=feed) 
  - <code>Oct 03 2026</code> [My Impossible Bucket List](https://abhinavsarkar.net/notes/2026-impossible-bucket-list/?mtm_campaign=feed) 
  - <code>Sep 30 2026</code> [Customizing Miniflux: Sorting by Signal](https://abhinavsarkar.net/notes/2026-miniflux-signal-sorting/?mtm_campaign=feed) 
  - <code>Sep 19 2026</code> [Non-negotiables in My Digital Personal Space](https://abhinavsarkar.net/notes/2026-personal-digital-space/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Aug 12 2026</code> [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/?mtm_campaign=feed) 
  - <code>Aug 10 2026</code> [Fast Haskell Scripts on GitHub Actions](https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/?mtm_campaign=feed) 
  - <code>Jul 27 2026</code> [Notes for the Week #30 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-27/?mtm_campaign=feed) 
- - <code>Jul 22 2026</code> [100 Questions for Webmasters](https://abhinavsarkar.net/notes/2026-100-webmasters/?mtm_campaign=feed) 
- - <code>Jul 20 2026</code> [Notes for the Week #29 &lpar;2026&rpar;](https://abhinavsarkar.net/notes/2026-weeknotes-07-20/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Jul 22 2026</code> [100 Questions for Webmasters](https://abhinavsarkar.net/notes/2026-100-webmasters/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
