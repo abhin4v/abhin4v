@@ -13,7 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
- - <code>Oct 14 2026</code> [Signs of Times](https://abhinavsarkar.net/notes/2026-signs/?mtm_campaign=feed) 
+ - <code>Oct 14 2026</code> [Signs of the Times](https://abhinavsarkar.net/notes/2026-signs/?mtm_campaign=feed) 
  - <code>Oct 06 2026</code> [A Day in My Life](https://abhinavsarkar.net/notes/2026-day-in-life/?mtm_campaign=feed) 
  - <code>Oct 03 2026</code> [My Impossible Bucket List](https://abhinavsarkar.net/notes/2026-impossible-bucket-list/?mtm_campaign=feed) 
  - <code>Sep 30 2026</code> [Customizing Miniflux: Sorting by Signal](https://abhinavsarkar.net/notes/2026-miniflux-signal-sorting/?mtm_campaign=feed) 
