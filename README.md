@@ -13,6 +13,7 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
 
 # Latest blog posts and notes
 <!-- BLOG-POST-LIST:START -->
+ - <code>Oct 31 2026</code> [An LC-3 Disassembler in Haskell](https://abhinavsarkar.net/posts/lc3-disassembler/?mtm_campaign=feed) 
  - <code>Oct 25 2026</code> [Extending BlogShake with Per-Tag Atom Feeds](https://abhin4v.github.io/shake-blog/posts/2026-10-25-extending-blogshake-tag-feeds/) 
  - <code>Oct 17 2026</code> [On Giving Up](https://abhinavsarkar.net/notes/2026-giving-up/?mtm_campaign=feed) 
  - <code>Oct 14 2026</code> [Signs of the Times](https://abhinavsarkar.net/notes/2026-signs/?mtm_campaign=feed) 
@@ -21,5 +22,4 @@ I am Abhinav Sarkar. I'm a software engineer currently living in Bangalore, Indi
  - <code>Sep 30 2026</code> [Customizing Miniflux: Sorting by Signal](https://abhinavsarkar.net/notes/2026-miniflux-signal-sorting/?mtm_campaign=feed) 
  - <code>Sep 19 2026</code> [Non-negotiables in My Digital Personal Space](https://abhinavsarkar.net/notes/2026-personal-digital-space/?mtm_campaign=feed) 
  - <code>Sep 14 2026</code> [Things You Might Not Know About This Website](https://abhinavsarkar.net/notes/2026-things-you-might-not-know/?mtm_campaign=feed) 
- - <code>Aug 31 2026</code> [Introducing Ahm](https://projects.abhinavsarkar.net/ahm/posts/2026-08-31-introducing-ahm/) 
- - <code>Aug 12 2026</code> [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/?mtm_campaign=feed) <!-- BLOG-POST-LIST:END -->
+ - <code>Aug 31 2026</code> [Introducing Ahm](https://projects.abhinavsarkar.net/ahm/posts/2026-08-31-introducing-ahm/) <!-- BLOG-POST-LIST:END -->
